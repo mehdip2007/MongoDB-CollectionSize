@@ -1,4 +1,4 @@
-//The mentioned script is created by the following
+//The mentioned script is created by cooprating
 //https://www.linkedin.com/in/donald-bedroya-2b2144100/
 
 
